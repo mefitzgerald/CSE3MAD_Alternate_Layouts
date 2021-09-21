@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSE3MAD_Alternate_Layouts</string>
+    <string name="image">Image</string>
+    <string name="portrait_600dp"><![CDATA[Portrait < 600dp]]></string>
+</resources>
